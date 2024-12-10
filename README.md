@@ -5,6 +5,6 @@ This is a simple blog web application created with React, Vite, Tailwind CSS, an
 ## Getting Started
 
 * `npm create vite@latest` to create the project
-* `git clone https://github.com/lamadevblogapp/lamadevblogapp.git` to clone the project
+* `git clone https://github.com/kofil8/Amazing-Blog.git` to clone the project
 * `npm install` to install the dependencies
 * `npm run build` to build the project
