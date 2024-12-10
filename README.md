@@ -1,9 +1,10 @@
-# React + Vite
+# Amazing Blog
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+This is a simple blog web application created with React, Vite, Tailwind CSS, and ESLint. It is configured with Fast Refresh using Babel and ESLint rules. The web application is then built and previewed using Vite. The web application is a blog with a list of posts. Each post has a title, content, and timestamp. The user can add new posts and delete existing posts. The user can also edit existing posts. The application is tested with Jest and Enzyme. The application is also configured with GitHub Actions to run tests and lint code. The application is deployed to GitHub Pages.
 
-Currently, two official plugins are available:
+## Getting Started
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
-# Amazing-Blog
+* `npm create vite@latest` to create the project
+* `git clone https://github.com/lamadevblogapp/lamadevblogapp.git` to clone the project
+* `npm install` to install the dependencies
+* `npm run build` to build the project
